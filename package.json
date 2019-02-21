@@ -1,0 +1,24 @@
+{
+  "name": "tocco-salon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rs01247/tocco-salon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rs01247/tocco-salon/issues"
+  },
+  "homepage": "https://github.com/rs01247/tocco-salon#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react-scripts": "^2.1.5"
+  },
+  "devDependencies": {}
+}
